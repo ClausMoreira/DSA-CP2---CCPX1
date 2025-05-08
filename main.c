@@ -86,7 +86,7 @@ void verificar_substring() {
     printf("Informe a segunda string:");
     scanf("%s", str2);
 
-    // Verificação simples de substring sem usar strstr
+    // VerificaÃ§Ã£o simples de substring sem usar strstr
     int len1 = strlen(str1);
     int len2 = strlen(str2);
     int encontrado = 0;
